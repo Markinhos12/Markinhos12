@@ -24,13 +24,6 @@ Sou um desenvolvedor focado em **Applied AI** e **Backend**, com experiência pr
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markinhos12&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markinhos12&layout=compact&theme=radical)
-
----
-
 ### 📫 Contato
 
 - **LinkedIn:** [https://www.linkedin.com/in/marcos-gabriel-miranda-do-nascimento-3671a9352/]
